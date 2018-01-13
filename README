@@ -1,0 +1,6 @@
+Run web-server:
+ - python web.py
+
+Test web-server:
+ - python test.py
+
